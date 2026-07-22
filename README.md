@@ -5,7 +5,7 @@ O projeto foi projetado sob os pilares de **Governança de Dados**, integridade 
 
 ---
 
-## Visão Geral & Contexto Operacional
+## Visão Geral e Contexto Operacional
 
 Na gestão industrial moderna, a manutenção não é apenas um centro de custos, mas um fator decisivo na disponibilidade e confiabilidade da planta. Para sustentar a tomada de decisão estratégica e suportar os pilares de **Qualidade** e **Eficiência**, este sistema estrutura o fluxo de dados desde o surgimento da falha até a consolidação dos custos operacionais.
 
@@ -17,7 +17,7 @@ A estrutura relacional foi modelada para alimentar de forma direta e consistente
 
 ---
 
-## Arquitetura & Diagrama de Entidade-Relacionamento (ERD)
+## Arquitetura e Diagrama de Entidade-Relacionamento (ERD)
 
 A modelagem adota o padrão de tabela fato centralizada (`chamados_manutencao`) com relacionamentos estruturados com suas tabelas de dimensão e detalhamento:
 
@@ -69,7 +69,7 @@ Este repositório passará por atualizações contínuas para conectar a camada 
 
 ### 2.Integração direta do **PostgreSQL ao Power BI**, visando a construção de um dashboard executivo e interativo focado na gestão do **OEE** e desempenho da manutenção.
 
-### Painel de KPIs & Indicadores no Power BI:
+### Painel de KPIs e Indicadores no Power BI:
 * **Índice de Disponibilidade (OEE):** Monitoramento contínuo das horas de parada não planejadas (*Downtime*) por ativo.
 * **Métricas de Confiabilidade (MTTR & MTBF):** Cálculo do Tempo Médio para Reparo (*Mean Time to Repair*) e Tempo Médio Entre Falhas (*Mean Time Between Failures*).
 * **Gestão Financeira de Manutenção:** Análise detalhada do Custo Total de Manutenção por máquina, discriminando gastos com peças vs. mão de obra.
