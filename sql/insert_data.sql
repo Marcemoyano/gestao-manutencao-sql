@@ -1,6 +1,5 @@
 -- ============================================================
 -- SCRIPT DML: Carga Inicial e Massa de Dados para Testes
--- Projeto: Gestão de Manutenção Industrial (OEE)
 -- SGBD: PostgreSQL
 -- ============================================================
 
