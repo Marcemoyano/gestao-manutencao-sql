@@ -60,7 +60,7 @@ Para garantir a confiabilidade dos relatórios e dashboards analíticos (ex: Pow
 
 ---
 
-## Próximos Passos: Construção do Dashboard no Power BI
+## Próximos Passos e Evolução do Projeto
 
 Este repositório passará por atualizações contínuas para conectar a camada de banco de dados relacional à camada de inteligência de negócios (*Business Intelligence*). 
 
