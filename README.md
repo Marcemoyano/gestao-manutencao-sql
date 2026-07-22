@@ -67,7 +67,7 @@ Este repositório passará por atualizações contínuas para conectar a camada 
 ### 1. Expansão de Dados (Volume e Escalabilidade)
 * **Ampliação da Carga DML:** Inclusão de um script de povoamento com maior volume de dados his
 
-## 2.integração direta do **PostgreSQL ao Power BI**, visando a construção de um dashboard executivo e interativo focado na gestão do **OEE** e desempenho da manutenção.
+### 2.Integração direta do **PostgreSQL ao Power BI**, visando a construção de um dashboard executivo e interativo focado na gestão do **OEE** e desempenho da manutenção.
 
 ### Painel de KPIs & Indicadores no Power BI:
 * **Índice de Disponibilidade (OEE):** Monitoramento contínuo das horas de parada não planejadas (*Downtime*) por ativo.
